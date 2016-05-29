@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "88097316278",
+    "firebase_url": "https://boiling-fire-5549.firebaseio.com",
+    "project_id": "boiling-fire-5549",
+    "storage_bucket": "boiling-fire-5549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88097316278:android:9a09854abe2ece09",
+        "android_client_info": {
+          "package_name": "com.android.isem.profileslocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88097316278-vn132k99o8a1o6qtsdqial5jgadc4ona.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDueLk7orbLGH5v9r_-tKrT1HKzPFhYT6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
